@@ -1,0 +1,6 @@
+Lộ trình học lập trình game:
+1. Chọn ngôn ngữ lập trình:
+C++: Được coi là ngôn ngữ chính trong lập trình game, đặc biệt cho các game đòi hỏi hiệu năng cao và các nền tảng console. 
+C#: Phổ biến trong Unity, một trong những game engine được sử dụng rộng rãi. 
+Python: Dễ học, thích hợp cho việc prototyping và các game đơn giản, cũng như trong các công cụ và engine. 
+JavaScript: Thường được dùng cho game trên trình duyệt và các game 2D. 
